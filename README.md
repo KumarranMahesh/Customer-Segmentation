@@ -8,6 +8,7 @@ This project involves customer segmentation analysis using a dataset of mall cus
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Cluster Insights](#cluster-insights)
 
 ## Introduction
 Customer segmentation is a crucial part of marketing strategies, allowing businesses to target specific groups of customers effectively. This project utilizes data analysis and machine learning techniques to segment customers into meaningful categories.
@@ -37,7 +38,7 @@ git clone https://github.com/KumarranMahesh/Customer-Segmentation.git
 cd Customer-Segmentation
 ```
 
-3. Ensure you have the dataset `Mall_Customers.csv` in the data directory.
+3. Ensure you have the dataset `Mall_Customers.csv` in the `data` directory.
 
 4. Run the Jupyter notebook or Python script to execute the project.
 
@@ -45,3 +46,6 @@ cd Customer-Segmentation
 - **Data Cleaning & Preprocessing**: Handling missing values, encoding categorical variables.
 - **Data Visualization**: Visualizing distributions of features.
 - **Clustering**: Implementing K-Means clustering to segment customers.
+
+## Cluster Insights
+This project also includes detailed insights for each customer cluster, providing specific characteristics and targeted marketing strategies for different customer segments.
